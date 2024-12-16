@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactRouter/static/css/main.948a17f2.css",
+    "main.js": "/reactRouter/static/js/main.a453af7d.js",
+    "static/media/사진.png": "/reactRouter/static/media/사진.9ea6d5a620a914b726a4.png",
+    "index.html": "/reactRouter/index.html",
+    "main.948a17f2.css.map": "/reactRouter/static/css/main.948a17f2.css.map",
+    "main.a453af7d.js.map": "/reactRouter/static/js/main.a453af7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.948a17f2.css",
+    "static/js/main.a453af7d.js"
+  ]
+}
